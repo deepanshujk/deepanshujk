@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepanshujk
-- 👀 I’m interested in dsa and web devlopment
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collabrotive disccusion on dsa topics
+- 👀  interested in dsa and web devlopment
+- 🌱  currently learning web devlopment
+- 💞️  looking to collabrotive disccusion on dsa topics
 - 📫 How to reach me - you can email me on deepanshuyadav23rd@gmail.com 
 
 <!---
